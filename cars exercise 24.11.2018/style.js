@@ -6,7 +6,7 @@ function prethodna() {
     } else {
         indeksSlike--;
     }
-    document.getElementById('car').src = 'img/car' + indeksSlike + '.jpg'; // jedna fotka je png
+    document.getElementById('car').src = 'img/car' + indeksSlike + '.jpg'; 
 }
 
 
